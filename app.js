@@ -1,5 +1,6 @@
 for (i=0; i <=5; i++){
     console.log('cause con two')
+    console.log('conflt')
     console.log(i)
 }
 // I love my daddy (:: shuku changes 
